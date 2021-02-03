@@ -4,7 +4,7 @@ The first line contains a string denoting s.
 The second line contains an integer denoting k.
 
 Constraints
-1 <= |S| <= 1000
+1 <= |s| <= 1000
 s consists of English alphabetic letters only (i.e., [a-zA-Z]).
 
 Output Format
