@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-	int T, N, sum;
+    int T, N, sum;
     scanf("%d",&T);
     for(int i = 0; i < T; i++){
         scanf("%d",&N);
